@@ -11,7 +11,6 @@ This project predicts whether a person is an *Introvert* or an *Extrovert* using
 - [Results](#results)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
-- [Screenshots (optional)](#screenshots-optional)
 - [License](#license)
 
 ##  Overview
